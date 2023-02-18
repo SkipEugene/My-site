@@ -1,23 +1,34 @@
 body {
     font-family: 'Montserrat', sans-serif;    
     background: linear-gradient(180deg, rgb(30, 30, 201), rgb(243, 243, 15));
+    margin-left: 60px;
+    margin-right: 60px;
+    border: 3px solid red;
+    
 }
 
 .Main{
-    padding-left: 60px;
+    
+    /* margin-left: 60px;
+    margin-right: 60px; */
 }
 
 .aboutUser{
     color: #f5f566;
-    
+    /* border: 3px solid red; */
+    /* margin-top: 50px; */
+    /* margin-bottom: 50px; */
+    /* margin-left: 60px; */
+    /* margin-right: 590px; */
     /* padding-top: 100px; */
-    /* padding-bottom: 300px; */
+    /* padding-bottom: 100px; */
     /* padding-left: 60px; */
     /* padding-right: 90px; */
 }
 
-.userPhoto{
-    border: 3px solid pink;
+.userPhoto{   
+    /* border: 3px solid yellow; */
+    padding-left: 60px;
 }
 
 .projects {
