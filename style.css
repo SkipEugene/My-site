@@ -1,6 +1,6 @@
 body {
     font-family: 'Montserrat', sans-serif;    
-    background: linear-gradient(180deg, rgb(30, 30, 201), rgb(243, 243, 15));
+    background: linear-gradient(180deg, rgb(106, 106, 230), rgb(240, 240, 127));
     margin-left: 60px;
     margin-right: 60px;
     /* border: 3px solid red; */
@@ -9,6 +9,7 @@ body {
 }
 
 .Main{
+
 }
 
 .aboutUser{
@@ -17,11 +18,17 @@ body {
     padding-left: 60px;
 }
 
-.userPhoto{   
+.userPhoto{
+
 }
 
 .AboutUserText{
     padding-left: 50px;
+    padding-top: 107px;
+}
+
+.Мої_досягнення{
+    padding-left: 70px;
     padding-top: 107px;
 }
 
@@ -36,7 +43,7 @@ body {
 
 
 .projects {
-    background-color: rgb(52, 171, 245);
+    background-color: rgb(110, 143, 252);
     margin-top: 100px;
     margin-bottom: 40px;
     margin-left: 60px;
@@ -45,25 +52,29 @@ body {
     border-radius: 20px;
 }
 
-
 .title{
-    color: rgb(243, 247, 33);
+    color: rgb(81, 123, 212);
+    font-size: 35px;
+    
+}
+
+.title1{
+    color: rgb(249, 252, 104);
     font-size: 35px;
     
 }
 
 .titleYell{
     color: rgb(226, 241, 14);
-    font-size: 35px;
+    /* font-size: 35px; */
     
 }
 
 .titleBlue{
-    color: rgb(47, 82, 179);
+    color: rgb(67, 106, 214);
     font-size: 35px;
     
 }
-
 
 .title2{
     color: rgb(253, 8, 172);
@@ -76,7 +87,7 @@ body {
 }
 
 .title4{
-    color: rgb(22, 14, 255);
+    color: rgb(97, 92, 253);
     font-size: 30px;
 }
 
