@@ -114,6 +114,14 @@ body {
     object-fit: contain;
 }
 
+.blockCode{
+    margin-left: 50px;
+    width: 75px
+    object-fit:
+}
+.ProjectImages{
+    display: flex;
+}
 
 @media screen and (max-width: 1024px) {
     .Main{
@@ -134,20 +142,15 @@ body {
     }
     .wrapper{
         display:inline;
-        
-        /* justify-content: space-between;
-        align-items: center; */
     } 
     .blockImage {
         width: 100%;
         object-fit:contain;        
         height: 100%;
-        
-        /* border: 1px solid Red; */
     }  
         
 }
-
+/* 
 @media screen and (max-width: 600px) {
     .Main{
         margin-left: 10px;
@@ -167,18 +170,13 @@ body {
     }
     .wrapper{
         display:inline;
-        
-        /* justify-content: space-between;
-        align-items: center; */
     } 
     .blockImage {
         width: 100%;
         object-fit:contain;        
         height: 100%;
-        
-        /* border: 1px solid Red; */
     }   
-}
+} */
 
 /* 
 600 px  — Маленькі планшети/телефони; 
