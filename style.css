@@ -116,8 +116,12 @@ body {
 
 .blockCode{
     margin-left: 50px;
-    width: 75px
+    /* width: 20px */
+    background-color: transparent;
+    width: 4%;
+    height: 10%;
     object-fit: fit-content;
+    display:flex;
 }
 .ProjectImages{
     display: flex;
@@ -126,7 +130,7 @@ body {
 @media screen and (max-width: 1024px) {
     .Main{
         margin-left: 10px;
-        margin-right: 10px;
+        -right: 10px;
     }
     .aboutUser{
         
